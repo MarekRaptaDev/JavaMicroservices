@@ -1,0 +1,16 @@
+
+/shelf/
+/workspace.xml
+inventory-service/docker/mysql/data/mysql.sock
+
+inventory-service/docker/mysql/data/
+
+
+product-service/data/
+
+
+*.sock
+
+.idea/
+
+*.log
